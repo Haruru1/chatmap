@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+.env
+.venv/
+venv/
+env/
+
+.idea/
+.vscode/
+
+*.log
+chatmap_report.md
+chatmap_viewer.html
