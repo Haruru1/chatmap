@@ -68,4 +68,5 @@ python app_tkinter.py
 
 ## License
 
+MIT License
 
