@@ -12,3 +12,8 @@ env/
 *.log
 chatmap_report.md
 chatmap_viewer.html
+
+# PyInstaller outputs
+*.spec
+build/
+dist/
